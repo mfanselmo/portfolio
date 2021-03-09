@@ -1,25 +1,20 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import Footer from "./components/Footer";
+import MainInformation from "./components/MainInformation";
+import Scroll from "./components/Scroll";
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className={"dark:bg-gray-800 transition-colors min-w-full min-h-full"}>
+      <div className={"md:pt-16 pt-8 md:mx-auto mx-6 md:max-w-screen-md "}>
+        <div className={"md:flex-row md:justify-evenly flex flex-col"}>
+          <MainInformation />
+          <Scroll />
+        </div>
+        <Footer />
+      </div>
     </div>
   );
-}
+};
 
 export default App;
