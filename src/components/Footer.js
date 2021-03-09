@@ -5,7 +5,7 @@ import footer_info from "./../content/footer_info.json";
 
 const Footer = () => {
   return (
-    <div className={"flex flex-row justify-center p-4 space-x-4"}>
+    <div className={"flex flex-row justify-center p-4 md:space-x-4 space-x-1"}>
       <Subtitle2>{footer_info.author}</Subtitle2>
       <Subtitle2>-</Subtitle2>
       <Subtitle2>{footer_info.year}</Subtitle2>
