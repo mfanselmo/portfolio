@@ -2,12 +2,12 @@
     {
         "type": "text-section",
         "titleText": "About Me",
-        "mainText": "Hello! My name is Martín Anselmo. I am a 23 year old student originary from Chile. Currently I am doing a double degree at Politecnico Di Milano, in the field of Computer Science and Engineering. \nMy interests in the area are a mix of good software and data science, in which I am particulary interested in the probabilistic approaches and data visualization techniques."
+        "mainText": "Hello! My name is Martín Anselmo. I am a 25 year old software engineer from Chile. I just finished my degree at Politecnico Di Milano, in the field of Computer Science and Engineering. \nMy interests in the area are a mix of good software and data visualization. In particular, I enjoy web development and keeping up with the latest technologies."
     },
     {
         "type": "text-section",
         "titleText": "Education",
-        "mainText": "As I mentioned before, I am currently doing a double degree at Politecnico Di Milano (Polimi) and Pontificia Universidad Catolica de Chile (PUC). This means that after I completed bachelor's at PUC, I started a MSc degree at Polimi while continuing my studies at PUC, so I can get the titles from both universities.\nAt PUC, I got a standard engineering bachelor's degree, with a major in computer science and a minor in data science, and at Polimi, I am doing a MSc in computer science, with a focus in data science and big data. I am expected to graduate mid 2021."
+        "mainText": "As I mentioned before, I am currently doing a double degree at Politecnico Di Milano (Polimi) and Pontificia Universidad Catolica de Chile (PUC). This means that after I completed bachelor's at PUC, I started a MSc degree at Polimi while continuing my studies at PUC, so I can get the titles from both universities.\nAt PUC, I got a standard engineering bachelor's degree, with a major in computer science and a minor in data science, and at Polimi, I did a MSc in computer science, with a focus in data science and big data."
     },
     {
         "type": "list-section",
@@ -24,7 +24,7 @@
                     },
                     {
                         "type": "simple",
-                        "content": "Javascript (advanced)"
+                        "content": "Javascript/Typescript (advanced)"
                     },
                     {
                         "type": "simple",
@@ -72,15 +72,11 @@
                     },
                     {
                         "type": "simple",
-                        "content": "Vue (medium)"
+                        "content": "Vue (advanced)"
                     },
                     {
                         "type": "simple",
-                        "content": "Ruby on Rails (medium)"
-                    },
-                    {
-                        "type": "simple",
-                        "content": "Flutter (medium)"
+                        "content": "Ruby on Rails (advanced)"
                     }
                 ]
             },
